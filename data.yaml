@@ -1,0 +1,7 @@
+names:
+    0: car
+    1: medium truck
+    2: large truck
+test: test/images
+train: train/images
+val: val/images
